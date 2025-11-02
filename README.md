@@ -2,8 +2,8 @@
 
 **A dashboard for pricing European options using the Black-Scholes-Merton model. This tool features real-time calculation of option Greeks and dynamic charting.**
 
-![Dashboard Overview](Capture d’écran 2025-11-02 à 15.37.51.png)
-![Dashboard Overview2](Capture d’écran 2025-11-02 à 15.38.00.png)
+![Dashboard Overview](Dashboard-1.png)
+![Dashboard Overview2](Dashboard-2.png)
 
 ---
 
