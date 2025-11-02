@@ -19,7 +19,7 @@
     *All Greeks vs. Spot 
 ---
 
-## 🛠️ Comment l'utiliser (How to Use)
+## How to Use
 
 1.  Download the 'Option_Visualizer.xlsm' file from this repository
 2.  Open the file in Excel
